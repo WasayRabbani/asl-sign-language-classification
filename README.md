@@ -6,7 +6,8 @@ The system detects hand, pose, and facial landmarks in real time and predicts th
 
 ---
 
-## 🚀 Features
+## 
+Features
 - Real-time ASL word recognition using webcam
 - MediaPipe Holistic landmark extraction
 - Deep learning–based classification (PyTorch)
@@ -30,17 +31,16 @@ The system detects hand, pose, and facial landmarks in real time and predicts th
 
 ## ⚙️ Installation
 
-### 1️⃣ Create virtual environment
+#### 1️⃣ Create virtual environment
 ```bash
 python -m venv venv
 
-Windows
+Activate Venv
 
+Windows
 venv\Scripts\activate
 
-
 Linux / macOS
-
 source venv/bin/activate
 
 Install dependencies
