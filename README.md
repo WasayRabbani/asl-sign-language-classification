@@ -16,7 +16,7 @@ Features
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 - **Python 3.10**
 - **OpenCV**
 - **MediaPipe**
@@ -31,7 +31,7 @@ Features
 
 ## ⚙️ Installation
 
-#### 1️⃣ Create virtual environment
+#### 1️ Create virtual environment
 ```bash
 python -m venv venv
 
@@ -49,3 +49,5 @@ pip install -r requirements.txt
 Run the Application
 python model_test.py
 
+
+```
