@@ -1,0 +1,66 @@
+# =====================
+# Python cache
+# =====================
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# =====================
+# Virtual environments
+# =====================
+venv/
+.env/
+env/
+.env.local
+
+# =====================
+# Data files (large)
+# =====================
+# Track small sample data manually if needed
+*.tsv
+*.xlsx
+*.json
+*.parquet
+*.feather
+
+# =====================
+# Machine Learning models
+# =====================
+*.pkl
+*.h5
+*.hdf5
+*.pt
+*.ckpt
+*.joblib
+
+# =====================
+# Logs
+# =====================
+*.log
+
+# =====================
+# Jupyter Notebooks
+# =====================
+.ipynb_checkpoints/
+*.nbconvert.ipynb
+
+# =====================
+# IDE / Editor folders
+# =====================
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# =====================
+# OS generated files
+# =====================
+.DS_Store
+Thumbs.db
+
+# =====================
+# Others / temporary
+# =====================
+*.tmp
+*.bak

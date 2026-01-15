@@ -1,0 +1,21 @@
+# Image & Video Processing
+opencv-python
+mediapipe==0.10.14
+
+# Deep Learning (AI)
+torch
+torchvision
+torchaudio
+
+# Data Science & Labeling
+numpy
+pandas
+scikit-learn
+
+# Visualization & Progress
+matplotlib
+seaborn
+tqdm
+
+# Video Acquisition / Downloading
+yt-dlp
